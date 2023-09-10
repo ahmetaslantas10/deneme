@@ -1,0 +1,53 @@
+
+.container{
+    width: 1000px;
+    margin: 50px auto 0;
+}
+.box{
+    width: 1000px;
+    background-color: rgb(219, 215, 215);
+    text-align: center;
+}
+p{
+    margin: 0;
+}        
+input{
+    width: 400px;
+    height: 20px;
+    writing-mode: horizontal-tb;
+}
+
+.card1{
+    text-align: center;
+    background-color: rgb(37, 223, 204);
+    float: left;
+    width: 320px;
+    height: 70px;
+    margin: 3px auto;
+    padding: 15px;
+}
+.card2{
+    text-align: center;
+    background-color: rgb(37, 223, 204);
+    float: left;
+    width: 217px;
+    height: 70px;
+    margin: 3px 3px;
+    padding: 15px;
+}
+.card3{
+    text-align: center;
+    background-color: rgb(37, 223, 204);
+    float: left;
+    width: 367px;
+    height: 70px;
+    margin: 3px auto;
+    padding: 15px;
+}
+#kutu{
+    width: 200px;
+    height: 20px;
+    writing-mode: horizontal-tb;
+}
+
+
